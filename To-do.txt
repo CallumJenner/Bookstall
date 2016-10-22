@@ -1,0 +1,13 @@
+This is the to-do file for this project
+
+-Give program a name
+
+-Create introduction file
+	-Enter shop name
+	-Enter shop details
+	-Save aall this info into a text file
+-Admin tools
+-Main file
+	-Buy books
+	-Sell books
+	-
